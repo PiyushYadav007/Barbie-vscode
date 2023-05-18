@@ -1,0 +1,80 @@
+{
+  "name": "barbie",
+  "displayName": "Barbie",
+  "description": "It is a Pink Barbie theme.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PiyushYadav007/Barbie-vscode"
+  },
+  "keywords": [
+    "Barbie",
+    "Barbie theme",
+    "Barbie color theme",
+    "Barbie color",
+    "Neon",
+    "Neon theme",
+    "Neon color theme",
+    "One Dark Pro",
+    "One Dark Pro theme",
+    "One Dark Pro color theme",
+    "GitHub Theme",
+    "GitHub color theme",
+    "Night Owl",
+    "Night Owl theme",
+    "Night Owl color theme",
+    "Shades of Purple",
+    "Shades of Purple theme",
+    "Shades of Purple color theme",
+    "Dracula",
+    "Dracula theme",
+    "Dracula color theme",
+    "Linux Themes for VS Code",
+    "Linux Themes for VS Code theme",
+    "Linux Themes for VS Code color theme",
+    "Kanagawa",
+    "Kanagawa theme",
+    "Kanagawa color theme",
+    "Winter is Coming",
+    "Winter is Coming theme", 
+    "Winter is Coming color theme",
+    "2077 Theme",
+    "2077 Theme theme",
+    "2077 Theme color theme",
+    "SynthWave '84",
+    "SynthWave '84 theme",
+    "SynthWave '84 color theme",
+    "Cobalt2",
+    "Cobalt2 theme",
+    "Cobalt2 color theme",
+    "Hydroxy",
+    "Hydroxy theme",
+    "Monokai",
+    "One Dark",
+    "Dark theme",
+    "Dark Red theme",
+    "GitHub theme",
+    "Reb and black theme",
+    "VS Code Theme",
+    "Pink and black theme"
+  ],
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Barbie",
+        "uiTheme": "vs",
+        "path": "./themes/Barbie-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "publisherDisplayName": "Piyush Yadav"
+  }
+}
